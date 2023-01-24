@@ -5,7 +5,7 @@ Discord Music-Bot
 
 # Installation
 > [![Node.js v16.14.2]()](https://nodejs.org/en/blog/release/v16.14.2/)
-
+> 
 > [![Discord Developer Portal]()](https://discord.com/developers/applications)
-
+>
 > [![Support]()](https://plexybot.xyz/suppport/)
