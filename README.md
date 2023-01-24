@@ -8,4 +8,4 @@ Discord Music-Bot
 > 
 > [![Discord Developer Portal]()](https://discord.com/developers/applications)
 >
-> [![Support]()](https://plexybot.xyz/suppport/)
+> [![Support]()](https://plexybot.xyz/support/)
